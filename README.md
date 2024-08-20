@@ -1,9 +1,9 @@
 # Netflix GPT
 
--Create Recat App using Vite
+-Created React App using Vite
 -Configured TailwindCss
 
-...
+
 # Features
 - Login/Sign Up
     - Sign In /Sign up Form
