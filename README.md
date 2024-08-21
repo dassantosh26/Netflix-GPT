@@ -1,7 +1,9 @@
 # Netflix GPT
 
--Created React App using Vite
--Configured TailwindCss
+- Created React App using Vite
+- Configured TailwindCss
+- Header
+- Login Form
 
 
 # Features
